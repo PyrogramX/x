@@ -1,20 +1,21 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
-    HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/VasuXD>ᴠᴀꜱᴜ™✓</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
+𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 <a href=https://t.me/{}>{}</a>, 𝗜 𝗰𝗮𝗻 𝗽𝗿𝗼𝘃𝗶𝗱𝗲 𝗺𝗼𝘃𝗶𝗲𝘀, 𝗝𝘂𝘀𝘁 𝘀𝗲𝗻𝗱 𝗺𝗼𝘃𝗶𝗲 𝗻𝗮𝗺𝗲 𝗯𝗲𝗹𝗼𝘄 👇🏻"""
+    HELP_TXT = """𝗛𝗲𝘆, {}
+𝗛𝗲𝗿𝗲 𝗶𝘀 𝘁𝗵𝗲 𝗵𝗲𝗹𝗽 𝗳𝗼𝗿 𝗺𝘆 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀."""
+    ABOUT_TXT = """✯ My Name: {}
+✯ Creator: <a href=https://t.me/VasuXD>ᴠᴀꜱᴜ™✓</a>
+✯ Library: Pyrogram
+✯ Language: Python 3
+✯ DataBase: MONGO DB 
+✯ Bot Server: Heroku
+✯ Build Status: v1.0.6 [ Beta ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Credit & Special Thanks❤ to Eva Maria project. 
-- Source - Private; Modified By @VasuXD 
+- Special Thanks❤ to Eva Maria project. 
+- Source - Private, Maintained By <a href=https://t.me/VasuXD>ᴠᴀꜱᴜ™✓</a>
+- Bot Owner - @JordanGill
 
-<b>DEVS:</b>
+<b>DEVELOPER:</b>
 - <a href=https://t.me/VasuXD>ᴠᴀꜱᴜ™✓</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
